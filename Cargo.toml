@@ -1,0 +1,6 @@
+[package]
+name = "rusty-tabulate"
+version = "0.1.0"
+authors = ["jay3332"]
+edition = "2018"
+include = ["src/lib.rs"]
