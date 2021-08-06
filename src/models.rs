@@ -8,7 +8,7 @@ pub struct LineStyle {
 pub struct WallStyle {
     left: Option<&'static str>,
     sep: Option<&'static str>,
-    right: Option<&'static str>
+    right: Option<&'static str>,
 }
 
 #[non_exhaustive]
@@ -31,5 +31,5 @@ pub struct Style {
     row_wall: Option<WallStyle>,
     header_align: u8,
     row_align: u8,
-    padding: u8
+    padding: u8,
 }
