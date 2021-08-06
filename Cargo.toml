@@ -1,6 +1,11 @@
 [package]
 name = "rusty-tabulate"
-version = "0.1.0"
 authors = ["jay3332"]
+description = ""
+keywords = ["", ""]
+homepage = "https://github.com/jay3332/rusty-tabulate"
+repository = "https://github.com/jay3332/rusty-tabulate"
+readme = "README.md"
+version = "0.1.0"
 edition = "2018"
-include = ["src/lib.rs"]
+include = ["src/**/*"]
